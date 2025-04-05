@@ -1,0 +1,1 @@
+![Build](https://github.com/SamuraiGalahad/todolist/actions/workflows/ci.yml/badge.svg)
